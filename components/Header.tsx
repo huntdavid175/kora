@@ -101,7 +101,7 @@ export default function Header() {
                 <div className="w-full md:w-auto flex-1 flex flex-col items-start md:items-end justify-between gap-6 text-sm md:text-base text-dark-brown">
                   <div className="hidden md:block h-px w-full md:w-72 bg-dark-brown/20" />
                   <div className="text-right w-full md:w-auto">
-                    <div className="font-semibold tracking-wide">+233 (0) 000 000</div>
+                    <div className="font-semibold tracking-wide">+233 (55) 986 976</div>
                     <div className="mt-1 font-semibold">hello@kiraspa.com</div>
                   </div>
                 </div>
