@@ -67,7 +67,7 @@ export default function HomeWhyChooseSection() {
             <InvertedAngledBackdrop />
             <div className="relative overflow-hidden rounded-[28px] md:rounded-[36px] image-shadow h-[260px] md:h-[420px] 2xl:h-[520px]">
               <Image
-                src="https://cdn.prod.website-files.com/67e50bd19f5ad99a1eeb8958/67f38c443f2affc4bcbaa355_our-spa.avif"
+                src="/assets/images/massage.png"
                 alt="Relaxing massage"
                 fill
                 className="object-cover"
