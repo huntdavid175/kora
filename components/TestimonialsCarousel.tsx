@@ -12,32 +12,28 @@ type Testimonial = {
 
 const testimonials: Testimonial[] = [
   {
-    image:
-      "https://images.unsplash.com/photo-1544006659-f0b21884ce1d?q=80&w=1600&auto=format&fit=crop",
+    image: "/assets/images/testimonial.avif",
     title: "Pure Relaxation",
     body:
       "This spa is pure bliss! From the calming ambiance to the expert therapists, every visit leaves me feeling refreshed and rejuvenated. Highly recommended!",
     author: "Sarah L.",
   },
   {
-    image:
-      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1600&auto=format&fit=crop",
+    image: "/assets/images/testimonial2.jpg",
     title: "Amazing Service",
     body:
       "The staff is incredibly kind and professional. They truly care about your comfort and well-being. Best massage I’ve ever had!",
     author: "Emma R.",
   },
   {
-    image:
-      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1600&auto=format&fit=crop",
+    image: "/assets/images/testimonial3.jpg",
     title: "Soothing Atmosphere",
     body:
       "Beautiful interiors and a serene vibe. The treatments are top-notch and great value for money.",
     author: "Nina D.",
   },
   {
-    image:
-      "https://images.unsplash.com/photo-1544006659-18d4b7d2f36a?q=80&w=1600&auto=format&fit=crop",
+    image: "/assets/images/testimonial4.avif",
     title: "Highly Recommended",
     body:
       "From booking to checkout, everything is seamless. My go-to place for relaxation.",
