@@ -112,7 +112,7 @@ export default function ContactSection() {
           {/* Right: Image */}
           <div className="md:col-span-7 relative overflow-hidden rounded-[28px] md:rounded-[36px] image-shadow h-[360px] md:h-[520px]">
             <Image
-              src="https://cdn.prod.website-files.com/67e50bd19f5ad99a1eeb8958/67f8f87bb6eee9e443dc6aec_contact-image.webp"
+              src="/assets/images/booking_image.png"
               alt="Facial treatment"
               fill
               className="object-cover"
