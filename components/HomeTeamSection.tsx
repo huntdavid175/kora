@@ -42,8 +42,8 @@ export default function HomeTeamSection() {
             <AngledBackdrop />
             <div className="relative overflow-hidden rounded-2xl image-shadow h-[260px] md:h-[360px] 2xl:h-[420px]">
               <Image
-                src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=1600&auto=format&fit=crop"
-                alt="Joanna Whitter"
+                src="/assets/images/team1.png"
+                alt="Ama Serwaa"
                 fill
                 className="object-cover"
                 sizes="(min-width: 768px) 33vw, 100vw"
@@ -51,7 +51,7 @@ export default function HomeTeamSection() {
             </div>
           </div>
           <div className="mt-3 text-center">
-            <div className="font-extrabold md:text-[22px] text-dark-brown font-display">Joanna Whitter</div>
+            <div className="font-extrabold md:text-[22px] text-dark-brown font-display">Ama Serwaa</div>
             <div className="text-xs text-neutral-600 md:text-[16px]">Spa Center Founder</div>
           </div>
         </motion.div>
@@ -68,8 +68,8 @@ export default function HomeTeamSection() {
             <AngledBackdrop />
             <div className="relative overflow-hidden rounded-2xl image-shadow h-[260px] md:h-[360px] 2xl:h-[420px]">
               <Image
-                src="https://images.unsplash.com/photo-1544723795-3fb6469f5b39?q=80&w=1600&auto=format&fit=crop"
-                alt="Jeremy Prue"
+                src="/assets/images/team2.png"
+                alt="Esther Mensah"
                 fill
                 className="object-cover"
                 sizes="(min-width: 768px) 33vw, 100vw"
@@ -77,7 +77,7 @@ export default function HomeTeamSection() {
             </div>
           </div>
           <div className="mt-3 text-center">
-            <div className="font-extrabold md:text-[22px] text-dark-brown font-display">Jeremy Prue</div>
+            <div className="font-extrabold md:text-[22px] text-dark-brown font-display">Esther Mensah</div>
             <div className="text-xs text-neutral-600 md:text-[16px]">Office Manager</div>
           </div>
         </motion.div>
@@ -94,8 +94,8 @@ export default function HomeTeamSection() {
             <AngledBackdrop />
             <div className="relative overflow-hidden rounded-2xl image-shadow h-[260px] md:h-[360px] 2xl:h-[420px]">
               <Image
-                src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1600&auto=format&fit=crop"
-                alt="Rita Bolera"
+                src="/assets/images/team3.png"
+                alt="Efua Owusu"
                 fill
                 className="object-cover"
                 sizes="(min-width: 768px) 33vw, 100vw"
@@ -103,7 +103,7 @@ export default function HomeTeamSection() {
             </div>
           </div>
           <div className="mt-3 text-center">
-            <div className="font-extrabold md:text-[22px] text-dark-brown font-display">Rita Bolera</div>
+            <div className="font-extrabold md:text-[22px] text-dark-brown font-display">Efua Owusu</div>
             <div className="text-xs text-neutral-600 md:text-[16px]">Event &amp; Music Manager</div>
           </div>
         </motion.div>
