@@ -26,7 +26,7 @@ export default function Header() {
               <path d="M48 30c-4 1-8 4-9 8 8 0 13-2 15-5-1-2-3-3-6-3z" />
             </svg>
             <Link href="/" className="font-semibold">
-              KORA SPA
+              KIRA SPA
             </Link>
           </div>
           <div className="flex items-center gap-6">
@@ -102,7 +102,7 @@ export default function Header() {
                   <div className="hidden md:block h-px w-full md:w-72 bg-dark-brown/20" />
                   <div className="text-right w-full md:w-auto">
                     <div className="font-semibold tracking-wide">+233 (0) 000 000</div>
-                    <div className="mt-1 font-semibold">hello@koraspa.com</div>
+                    <div className="mt-1 font-semibold">hello@kiraspa.com</div>
                   </div>
                 </div>
               </div>

@@ -53,7 +53,7 @@ export default function Footer() {
                 <path d="M16 30c4 1 8 4 9 8-8 0-13-2-15-5 1-2 3-3 6-3z" />
                 <path d="M48 30c-4 1-8 4-9 8 8 0 13-2 15-5-1-2-3-3-6-3z" />
               </svg>
-              <span className="font-extrabold text-dark-brown font-display">KORA SPA</span>
+              <span className="font-extrabold text-dark-brown font-display">KIRA SPA</span>
             </div>
             <p className="mt-3 text-neutral-700 text-sm md:text-base max-w-sm">
               Relax. Restore. Rejuvenate. Your sanctuary of serenity awaits.
@@ -95,7 +95,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 flex flex-col md:flex-row items-center justify-between gap-4 text-neutral-600 text-sm">
-          <div>© {year} Kora Spa. All rights reserved.</div>
+          <div>© {year} Kira Spa. All rights reserved.</div>
           <div className="flex items-center gap-4">
             <Link href="#" className="hover:opacity-80">Privacy Policy</Link>
             <span className="inline-block h-1 w-1 rounded-full bg-neutral-400" />

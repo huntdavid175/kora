@@ -22,7 +22,7 @@ const unbounded = Unbounded({
 });
 
 export const metadata: Metadata = {
-  title: "Kora Spa | Home",
+  title: "Kira Spa | Home",
   description: "Your sanctuary of serenity awaits",
 };
 
